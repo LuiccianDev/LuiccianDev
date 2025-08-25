@@ -1,38 +1,38 @@
-# ¡Hola, soy LuiccianDev! 👋
+# Hello, I'm LuiccianDev! 👋
 
-Bienvenido a mi perfil de GitHub.
+Welcome to my GitHub profile.
 
-## 🚀 Sobre mí
-Soy desarrollador con experiencia en automatización, manejo de datos y control de versiones. Me apasiona crear soluciones útiles combinando herramientas como Excel, Word y bases de datos.
+## 🚀 About Me
+I'm a developer with experience in automation, data management, and version control. I'm passionate about creating useful solutions by combining tools like Excel, Word, and databases.
 
-## 🛠️ Tecnologías y herramientas
-- **Excel:** Automatización de hojas de cálculo, macros y análisis de datos.
-- **Word:** Automatización de documentos y generación de reportes.
-- **PostgreSQL:** Diseño, administración y consultas avanzadas en bases de datos relacionales.
-- **Git/Commit:** Control de versiones, colaboración en proyectos y buenas prácticas de desarrollo.
+## 🛠️ Technologies and Tools
+- **Excel:** Spreadsheet automation, macros, and data analysis.
+- **Word:** Document automation and report generation.
+- **PostgreSQL:** Design, administration, and advanced queries in relational databases.
+- **Git/Commit:** Version control, project collaboration, and development best practices.
 
-## 💡 Proyectos destacados
-- **Automatización de reportes en Excel y Word**  
-  Scripts para generar informes automáticos combinando bases de datos y plantillas personalizadas.
-- **Gestión de datos en PostgreSQL**  
-  Proyectos de migración, consulta y visualización de información en bases de datos robustas.
-- **Control de versiones**  
-  Uso avanzado de Git para gestionar proyectos y colaborar con otros desarrolladores.
+## 💡 Featured Projects
+- **Automated Reporting in Excel and Word**  
+  Scripts to automatically generate reports by combining databases and custom templates.
+- **Data Management in PostgreSQL**  
+  Projects for migration, querying, and visualization of information in robust databases.
+- **Version Control**  
+  Advanced use of Git to manage projects and collaborate with other developers.
   
-## 📊 Lenguajes más usados
+## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiccianDev&layout=compact&theme=radical)
 
-## 🌱 Actualmente aprendiendo
-- Integración de IA en aplicaciones
-- DevOps y automatización de procesos
+## 🌱 Currently Learning
+- AI integration in applications
+- DevOps and process automation
 
-## 📫 Contacto
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
 - luiccian.dev@gmail.com
 
 ---
 
-> “La automatización y el control de versiones son la clave para proyectos eficientes.”
+> "Automation and version control are the key to efficient projects."
 
-¡Gracias por visitar mi perfil!
+Thank you for visiting my profile!
