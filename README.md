@@ -19,8 +19,6 @@ Soy desarrollador con experiencia en automatización, manejo de datos y control 
 - **Control de versiones**  
   Uso avanzado de Git para gestionar proyectos y colaborar con otros desarrolladores.
 
-## 📈 Estadísticas
-![LuiccianDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiccianDev&show_icons=true&theme=radical)
 
 ## 🌱 Actualmente aprendiendo
 - Integración de IA en aplicaciones
