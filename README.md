@@ -18,7 +18,10 @@ Soy desarrollador con experiencia en automatización, manejo de datos y control 
   Proyectos de migración, consulta y visualización de información en bases de datos robustas.
 - **Control de versiones**  
   Uso avanzado de Git para gestionar proyectos y colaborar con otros desarrolladores.
+  
+## 📊 Lenguajes más usados
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiccianDev&layout=compact&theme=radical)
 
 ## 🌱 Actualmente aprendiendo
 - Integración de IA en aplicaciones
