@@ -3,22 +3,8 @@
 Welcome to my GitHub profile.
 
 ## 🚀 About Me
-I'm a developer with experience in automation, data management, and version control. I'm passionate about creating useful solutions by combining tools like Excel, Word, and databases.
+I'm a developer with experience in automation, data management, and version control. I'm passionate about creating useful solutions .
 
-## 🛠️ Technologies and Tools
-- **Excel:** Spreadsheet automation, macros, and data analysis.
-- **Word:** Document automation and report generation.
-- **PostgreSQL:** Design, administration, and advanced queries in relational databases.
-- **Git/Commit:** Version control, project collaboration, and development best practices.
-
-## 💡 Featured Projects
-- **Automated Reporting in Excel and Word**  
-  Scripts to automatically generate reports by combining databases and custom templates.
-- **Data Management in PostgreSQL**  
-  Projects for migration, querying, and visualization of information in robust databases.
-- **Version Control**  
-  Advanced use of Git to manage projects and collaborate with other developers.
-  
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiccianDev&layout=compact&theme=radical)
@@ -28,8 +14,8 @@ I'm a developer with experience in automation, data management, and version cont
 - DevOps and process automation
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- luiccian.dev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/william-guevara-lazaro-79274b2a3/](https://www.linkedin.com/in/william-guevara-lazaro-79274b2a3))
+- [Instagram](https://www.instagram.com/luiccian_dev/)
 
 ---
 
