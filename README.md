@@ -1,24 +1,30 @@
-# Hello, I'm LuiccianDev! 👋
+<p align="center">
+  <img src="image1" alt="LuiccianDev profile banner" />
+</p>
 
-Welcome to my GitHub profile.
+# Hi, I'm LuiccianDev 👋
 
-## 🚀 About Me
-I'm a developer with experience in automation, data management, and version control. I'm passionate about creating useful solutions .
+I build practical solutions with a focus on **automation**, **data management**, and **version control**.  
+I'm especially interested in applying **AI integration** and **DevOps practices** to improve development workflows.
 
-## 📊 Most Used Languages
+## 🎯 Areas of Interest
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiccianDev&layout=compact&theme=radical)
+- ⚙️ Workflow and process automation
+- 🗂️ Organized and reliable data management
+- 🔀 Clean collaboration with version control
+- 🤖 AI integration in real applications
+- 🚀 DevOps mindset for continuous improvement
 
 ## 🌱 Currently Learning
+
 - AI integration in applications
 - DevOps and process automation
 
+## 📊 Statistics & Languages
+
+![Most used programming languages for LuiccianDev GitHub profile](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiccianDev&layout=compact&theme=radical)
+
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/william-guevara-lazaro-79274b2a3/](https://www.linkedin.com/in/william-guevara-lazaro-79274b2a3))
+
+- [LinkedIn](https://www.linkedin.com/in/william-guevara-lazaro-79274b2a3/)
 - [Instagram](https://www.instagram.com/luiccian_dev/)
-
----
-
-> "Automation and version control are the key to efficient projects."
-
-Thank you for visiting my profile!
